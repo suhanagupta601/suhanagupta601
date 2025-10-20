@@ -37,10 +37,10 @@ I’m a developer studying computer science and mathematics. Mainly, I am passio
 ---
 
 ## 📫 Let’s Connect!
-- 🌐 [Portfolio Website](https://suhanagupta601.github.io/personalWebsite)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/suhanagupta601) *(if you want to add)*  
-- ✉️ suhana.gupta@example.com *(replace with your real email if you’d like)*  
-- 🧑‍💻 [GitHub](https://github.com/suhanagupta601)
+- 🌐 [(https://suhanagupta601.github.io/personalWebsite)]  
+- 💼 [(https://www.linkedin.com/in/suhanagupta601)]  
+- ✉️ suhana36g@gmail.com 
+- 🧑‍💻 [(https://github.com/suhanagupta601)]
 
 ---
 
