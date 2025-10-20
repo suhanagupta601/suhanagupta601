@@ -15,9 +15,9 @@ I’m a developer studying computer science and mathematics. Mainly, I am passio
 ---
 
 ## 🛠️ My Tech Stack
-**Languages:** Java, C++, HTML, CSS, JavaScript, Python, Racket, Typescript 
-**Tools & Frameworks:** Figma, Git, JUnit, Visual Studio Code, IntelliJ, Eclipse, Prisma, Node.js, Docker, Bootstrap, React, Express, 
-**Interests:** AI tools, Creative coding, UX design, Fashion tech  
+- **Languages:** Java, C++, HTML, CSS, JavaScript, Python, Racket, Typescript 
+- **Tools & Frameworks:** Figma, Git, JUnit, Visual Studio Code, IntelliJ, Eclipse, Prisma, Node.js, Docker, Bootstrap, React, Express,
+- **Interests:** AI tools, Creative coding, UX design, Fashion tech  
 
 ---
 
