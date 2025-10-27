@@ -39,7 +39,7 @@ I’m a developer studying computer science and mathematics. Mainly, I am passio
 ## 📫 Let’s Connect!
 - 🌐 [website]([url](https://suhanagupta601.github.io/personalWebsite))
 - 💼 [LinkedIn]([url](https://www.linkedin.com/in/suhanagupta601)) 
-- ✉️ suhana36g@gmail.com 
+- ✉️ suhana.gupta0516@gmail.com 
 - 🧑‍💻 [GitHub](https://github.com/suhanagupta601)
 
 ---
