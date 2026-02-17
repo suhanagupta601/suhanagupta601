@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Suhana Gupta
+# Hi, I’m Suhana Gupta
 
 I’m a developer studying computer science and mathematics. Mainly, I am passionate about building projects around human experiences, solving real-time problems by combining technology, creativity, and design.
 
@@ -30,21 +30,21 @@ I’m a developer studying computer science and mathematics. Mainly, I am passio
 ---
 
 ## ✨ Fun Facts
-- 🎧 I code best with R&B music on  
-- 💫 Obsessed with astronomy-themed interfaces  
-- 🧵 Always looking for ways to blend tech & art  
+- I code best with R&B music on  
+- Obsessed with astronomy-themed interfaces  
+- Always looking for ways to blend tech & art  
 
 ---
 
 ## 📫 Let’s Connect!
-- 🌐 [website](https://suhanagupta601.github.io/personalWebsite)
-- 💼 [LinkedIn](https://www.linkedin.com/in/suhanagupta601) 
-- ✉️ suhana.gupta0516@gmail.com 
-- 🧑‍💻 [GitHub](https://github.com/suhanagupta601)
+- [website](https://suhanagupta601.github.io/personalWebsite)
+- [LinkedIn](https://www.linkedin.com/in/suhanagupta601) 
+- suhana.gupta0516@gmail.com 
+- [GitHub](https://github.com/suhanagupta601)
 
 ---
 
-⭐️ *Thanks for visiting my corner of the internet — feel free to explore and/or drop a message!*
+*Thanks for visiting my corner of the internet — feel free to contact me!*
 
 <!--
 **suhanagupta601/suhanagupta601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
