@@ -4,16 +4,6 @@ I’m a developer studying computer science and mathematics. Mainly, I am passio
 
 💡 Currently exploring how **AI** and **data-driven design** can intersect to create more intuitive and expressive digital tools.
 
----
-
-## 🌟 Featured Projects
-| Project | Description | Live Demo / Code |
-|----------|--------------|------------------|
-| 🧩 [NYT Connections Remake](https://github.com/suhanagupta601/NYTConnectionsRemake) | A web-based recreation of the NYT Connections puzzle game built with Java. |(https://suhanagupta601.github.io/NYTConnectionsRemake) |
-| 🌐 [Personal Website](https://github.com/suhanagupta601/personalWebsite) | My interactive personal portfolio site. | (https://suhanagupta601.github.io/personalWebsite) |
-
----
-
 ## 🛠️ My Tech Stack
 - **Languages:** Java, C++, HTML, CSS, JavaScript, Python, Racket, Typescript 
 - **Tools & Frameworks:** Figma, Git, JUnit, Visual Studio Code, IntelliJ, Eclipse, Prisma, Node.js, Docker, Bootstrap, React, Express,
