@@ -19,13 +19,6 @@ I’m a developer studying computer science and mathematics. Mainly, I am passio
 
 ---
 
-## ✨ Fun Facts
-- I code best with R&B music on  
-- Obsessed with astronomy-themed interfaces  
-- Always looking for ways to blend tech & art  
-
----
-
 ## 📫 Let’s Connect!
 - [website](https://suhanagupta601.github.io/personalWebsite)
 - [LinkedIn](https://www.linkedin.com/in/suhanagupta601) 
