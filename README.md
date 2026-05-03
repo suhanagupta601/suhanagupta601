@@ -1,8 +1,6 @@
 # Hi, I’m Suhana Gupta
 
-I’m a developer studying computer science and mathematics. Mainly, I am passionate about building projects around human experiences, solving real-time problems by combining technology, creativity, and design.
-
-💡 Currently exploring how **AI** and **data-driven design** can intersect to create more intuitive and expressive digital tools.
+I am a developer studying computer science and mathematics. I am passionate about building projects that shape human experiences and create solutions by combining technology, creativity, and design.
 
 ## 🛠️ My Tech Stack
 - **Languages:** Java, C++, HTML, CSS, JavaScript, Python, Racket, Typescript 
@@ -27,7 +25,7 @@ I’m a developer studying computer science and mathematics. Mainly, I am passio
 
 ---
 
-*Thanks for visiting my corner of the internet — feel free to contact me!*
+*Thanks for visiting my corner of the internet. Feel free to contact me!*
 
 <!--
 **suhanagupta601/suhanagupta601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
